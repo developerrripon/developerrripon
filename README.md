@@ -14,9 +14,9 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 
 
 ## 👨‍💻 Skills & Experiance: 
-▣ WordPress <br> 
+▣ WORDPRESS <br> 
 ▣ JAVASCRIPT <br>
-▣ REACT
+▣ REACT <br>
 ▣ PHP & MySql <br>
 ▣ HTML5 / CSS3 / SASS / BOOTSTRAP5 / JQUERY <br>
 ▣ PHOTOSHOP / ILLUSTRATOR / FIGMA <br>
