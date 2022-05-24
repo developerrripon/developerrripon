@@ -23,11 +23,11 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 
 - 🔭 I’m currently working on [Hablu Programmer Team](https://habluprogrammer.com/)
 
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently learning **JS, Python, React, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/developerrripon](https://github.com/developerrripon)
 
-- 📝 I regularly uploads videos on [[https://github.com/developerrripon](https://www.youtube.com/channel/UCzjZ5olTc0hsbr27GfcTzUQ?sub_confirmation=1)](https://cutt.ly/subcribe_now)
+- 📝 I regularly uploads videos on [https://www.youtube.com/channel/UCzjZ5olTc0hsbr27GfcTzUQ?sub_confirmation=1](https://cutt.ly/subcribe_now)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
