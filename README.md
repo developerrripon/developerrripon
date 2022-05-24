@@ -67,6 +67,6 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerrripon&" alt="developerrripon" /></p> -->
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoobMahbub&show_icons=true&locale=en&layout=compact" alt="Kazi Mahbubur Rahman" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?usernamedeveloperrripon&show_icons=true&locale=en&layout=compact" alt="developerrripon" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=developerrripon&show_icons=true&locale=en" alt="developerrripon" /></p>
