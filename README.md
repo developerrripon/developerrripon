@@ -12,7 +12,7 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 
 <h3> Search Me In GOOGLE ➜ R Ripon Islam or Developer R Ripon </h3>
 
-<b> Skills <b>
+<b> Skills </b>
 ▣ HTML5 & CSS3 & SASS
 ▣ JQUERY & BOOTSTRAP5
 ▣ JAVASCRIPT & REACT JS
