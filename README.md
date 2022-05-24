@@ -12,13 +12,13 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 
 <h3> Search Me In GOOGLE ➜ R Ripon Islam or Developer R Ripon </h3>
 
-<b> Skills </b>
+<h1> Skills </h1>
 ▣ HTML5 & CSS3 & SASS
 ▣ JQUERY & BOOTSTRAP5
 ▣ JAVASCRIPT & REACT JS
 ▣ PHP & MySql
-▣ Responsive Design
-▣ PSD to Html Themeforest & Template Monster Standard
+▣ PSD to Html
+▣ WordPress Website Development 
 <hr>
 
 - 🔭 I’m currently working on [Hablu Programmer Team](https://habluprogrammer.com/)
