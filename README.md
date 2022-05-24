@@ -12,14 +12,14 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 
 <h3> Search Me In GOOGLE ➜ R Ripon Islam or Developer R Ripon </h3>
 
-<h1> Skills </h1>
-▣ HTML5 & CSS3 & SASS
-▣ JQUERY & BOOTSTRAP5
-▣ JAVASCRIPT & REACT JS
-▣ PHP & MySql
-▣ PSD to Html
-▣ WordPress Website Development 
-<hr>
+
+## 👨‍💻 Skills & Experiance: 
+▣ WordPress <br> 
+▣ JAVASCRIPT <br>
+▣ REACT
+▣ PHP & MySql <br>
+▣ HTML5 / CSS3 / SASS / BOOTSTRAP5 / JQUERY <br>
+▣ PHOTOSHOP / ILLUSTRATOR / FIGMA <br>
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com)
 
@@ -29,7 +29,7 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 
 <!-- ===== - 📝 I regularly uploads videos on [https://www.youtube.com/channel/UCzjZ5olTc0hsbr27GfcTzUQ?sub_confirmation=1](https://cutt.ly/subcribe_now) === -->
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **WordPress, HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **rripondeveloper@gmail.com**
 
@@ -73,3 +73,7 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 <!-- <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?usernamedeveloperrripon&show_icons=true&locale=en&layout=compact" alt="developerrripon" /></p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=developerrripon&show_icons=true&locale=en" alt="developerrripon" /></p>
+
+
+## 💬 For Business Inquiry
+► rripondeveloper@gmail.com
