@@ -51,3 +51,8 @@ I Have Been Working Very Efficiently as The Web Designer & Developer And WordPre
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerrripon&" alt="developerrripon" /></p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hablu-programmer)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hablu-programmer&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hablu-programmer)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hablu-programmer)  
